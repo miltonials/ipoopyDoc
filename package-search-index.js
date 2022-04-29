@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"logicadenegocio"},{"l":"modelo"},{"l":"utilitaria"},{"l":"vista"}];updateSearchResults();
